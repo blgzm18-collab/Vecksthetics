@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         Veck.io Advanced Custom Crosshair + HUD + Game Visuals
-// @namespace    http://tampermonkey.net/
-// @version      2.2
-// @description  Fully cosmetic crosshair + FPS/Ping/Timer HUD + preset cycling (Ctrl+←/→) + Game Visuals tab (vibrance, brightness, contrast, hue, vignette). Makes the plain Unity game look modern and clean.
-// @match        *://veck.io/*
-// @grant        none
-// ==/UserScript==
-
 (function () {
     'use strict';
 
